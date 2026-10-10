@@ -8,6 +8,21 @@ This project documents a security assessment of my personal macOS workstation, c
 
 The objective was to discover network services, identify potential security risks, implement appropriate hardening measures and verify the results.
 
+## Project Documentation
+
+| Document | Description |
+|---|---|
+| [Nmap Scan Evidence](evidence/nmap-scan-results.md) | Sanitised port scans, service enumeration and verification results |
+| [Security Findings Report](findings/security-findings.md) | Risk assessments, remediation actions and recommendations |
+
+### Key Results
+
+- **6 open TCP ports** identified during initial discovery.
+- **2 security improvements** implemented and verified.
+- **1 printer-related service** investigated.
+- **Remote-access exposure reduced** by disabling unnecessary Screen Sharing.
+- **Host firewall enabled** and its status verified.
+
 ## Tools and Technologies
 
 - Nmap 7.991
