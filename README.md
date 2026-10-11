@@ -14,6 +14,7 @@ The objective was to discover network services, identify potential security risk
 |---|---|
 | [Nmap Scan Evidence](evidence/nmap-scan-results.md) | Sanitised port scans, service enumeration and verification results |
 | [Security Findings Report](findings/security-findings.md) | Risk assessments, remediation actions and recommendations |
+| [Lessons Learned](lessons-learned.md) | Practical skills, challenges and Security+ knowledge applied |
 
 ### Key Results
 
